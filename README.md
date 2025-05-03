@@ -23,7 +23,7 @@ Este repositorio incluye los siguientes notebooks, que representan diferentes et
 
 3.  **`sticker forecast kaggle stationary treatment & weighted sales.ipynb`**:
     * **Tratamiento Estacionario de NaNs:** Este notebook aborda el tratamiento de los valores faltantes considerando la naturaleza de la serie de tiempo. Se exploran métodos de imputación que tienen en cuenta la estacionalidad y las tendencias.
-    * **Solución Ponderada de Características:** La solución final propuesta en este notebook implica una estrategia donde las predicciones se basan en una ponderación de diferentes características o modelos. Esto busca combinar la información de diversas fuentes para obtener un pronóstico más robusto y preciso.
+    * **Solución Ponderada de Características:** La solución final propuesta en este notebook implica una estrategia donde las predicciones se basan en una ponderación de diferentes características o modelos. Esto busca combinar la información de diversas fuentes para obtener un pronóstico más robusto y preciso. https://colab.research.google.com/drive/1ZeoA18gyLk3uirdvV-eNU-bcjXCFe-NY?usp=sharing
 
 ## Cómo Utilizar este Repositorio
 
